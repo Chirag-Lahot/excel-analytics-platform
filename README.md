@@ -218,9 +218,6 @@ For issues or suggestions, feel free to:
 * 🐛 Open an issue in this repo
 
 ---
-
-> **Built with ❤️ using the MERN stack**
-
 ---
 
 Let me know if you'd like this turned into a downloadable `README.md` file or styled for a project website!
